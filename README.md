@@ -1,6 +1,6 @@
 
 <picture> <source media="(prefers-color-scheme: dark)" srcset="https://telegra.ph/file/2670cdf34df5ab5586c0c.jpg"> <source media="(prefers-color-scheme: light)" srcset="https://graph.org/file/d1d31a56f7833013cf42b.jpg"> <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png"> </picture>
-## welcome , to [𝐀𝐒𝐌𝐀𝐀𝐑𝐀𝐎𝐎𝐅 ](https://t.me/AX_7yA)
+## welcome , I am  [𝐀𝐒𝐌𝐀𝐀𝐑𝐀𝐎𝐎𝐅 ](https://t.me/AX_7yA)
  FrontNet website programming
  Website programming and design through the best programming expertise, where the latest programming languages are used, which makes it a fast website in terms of archiving and ease of use by customers.
  <p>
